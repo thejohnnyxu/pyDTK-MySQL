@@ -1,0 +1,5 @@
+dbHostname = 10.0.10.50
+dbUsername = jxu1
+dbDatabase = dicom
+dbTable = dicoms
+sPath = /Users/jxu1/Documents/DICOM/dump/1/
